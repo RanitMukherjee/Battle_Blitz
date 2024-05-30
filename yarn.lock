@@ -1992,10 +1992,10 @@ three-stdlib@2.23.9:
     potpack "^1.0.1"
     zstddec "^0.0.2"
 
-three-stdlib@^2.23.4, three-stdlib@^2.23.9, three-stdlib@^2.27.1:
-  version "2.27.2"
-  resolved "https://registry.yarnpkg.com/three-stdlib/-/three-stdlib-2.27.2.tgz#d9fb6e8341ad93aa12b71bec2b3480528d6e42bf"
-  integrity sha512-yjHaY4QHRqMi1yGIt5RzWtRFbcCj2YHoCaAY4pldphI5CMf9PoCc9N2UFuVbHqgITQRKnVoCo+OCMU2rIZTXjg==
+three-stdlib@^2.23.4, three-stdlib@^2.23.9, three-stdlib@^2.30.2:
+  version "2.30.2"
+  resolved "https://registry.yarnpkg.com/three-stdlib/-/three-stdlib-2.30.2.tgz#6b669f62dd0e11c4d237c51efe89ed3a878de199"
+  integrity sha512-R4HRbSRfTwEIJPAybj3XnunXF0esGiCTol8p7n0hxKX0x6Ta44ESPHKoQn/uvZmgPNrtNxLsH3YWjywyF6Z2Mw==
   dependencies:
     "@types/draco3d" "^1.4.0"
     "@types/offscreencanvas" "^2019.6.4"
