@@ -1888,10 +1888,10 @@ pirates@^4.0.1:
   resolved "https://registry.yarnpkg.com/pirates/-/pirates-4.0.6.tgz#3018ae32ecfcff6c29ba2267cbf21166ac1f36b9"
   integrity sha512-saLsH7WeYYPiD25LDuLRRY/i+6HaPYr6G1OUlN39otzkSTxKnubR9RTxS3/Kk50s1g2JTgFwWQDQyplC5/SHZg==
 
-playroomkit@^0.0.75:
-  version "0.0.75"
-  resolved "https://registry.yarnpkg.com/playroomkit/-/playroomkit-0.0.75.tgz#51a5db08e0b23375e6650f249576b79692475a12"
-  integrity sha512-/OzU41iZC/SFUuLYQG4pZra4mR+9KT4PpApI631lfezmGqN5gNgLQsQ3JLVYd6729lobP0lQonVqVzotV1BNmA==
+playroomkit@^0.0.77:
+  version "0.0.77"
+  resolved "https://registry.yarnpkg.com/playroomkit/-/playroomkit-0.0.77.tgz#314f9f89082c4defb64e4a7c02bd2fc80b1af590"
+  integrity sha512-NpGLfkzTt0dnIvUXdN/65amlfUUI535V7c7aj0RmWZv8nYDd0Nrk6k3qHPriEumfwF//5A2OvNPumZLteItSmg==
   optionalDependencies:
     "@discord/embedded-app-sdk" ">=1.0.0"
 
