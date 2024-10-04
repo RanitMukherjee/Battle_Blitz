@@ -12,7 +12,7 @@
     "@react-three/drei": "9.114.0",
     "@react-three/fiber": "8.17.8",
     "@react-three/postprocessing": "^2.16.3",
-    "@react-three/rapier": "^1.4.0",
+    "@react-three/rapier": "^1.5.0",
     "@types/three": "0.152.1",
     "leva": "^0.9.35",
     "playroomkit": "^0.0.82",
